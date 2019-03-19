@@ -6,3 +6,26 @@
 <a class="list-group-item" href="#"><i class="fa fa-file-o fa-2x"></i> Certificados</a>
 <a class="list-group-item" href="#"><i class="fa fa-file-o fa-2x"></i> Resumen</a>
 </div>
+<div>
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Rut</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Cargo</th>
+      <th scope="col">Fecha Inicio</th>
+      <th scope="col">Cantidad Dias</th>
+      <th scope="col">Comentario</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <th scope="row">1</th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+    </table> 
